@@ -6,7 +6,7 @@
 
 A website for users to sign up and post small snippet boxes of text. Project comes from the book [Let's Go](https://lets-go.alexedwards.net/) by Alex Edwards
 
-![screencast](screencast.mp4)
+https://user-images.githubusercontent.com/17106256/218244705-d479b401-65b5-4977-8b62-c7b22d608375.mp4
 
 ## Features
 
